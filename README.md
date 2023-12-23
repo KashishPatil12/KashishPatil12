@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KashishPatil12
+- 👋 Hi, I’m Kashish Patil
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on website project
